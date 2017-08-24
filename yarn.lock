@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@types/node@^8.0.23":
+  version "8.0.23"
+  resolved "http://registry.npm.taobao.org/@types/node/download/@types/node-8.0.23.tgz#c746697004782346594a0d755c34425bbf3014d2"
+
 abbrev@1:
   version "1.1.0"
   resolved "http://registry.npm.taobao.org/abbrev/download/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"

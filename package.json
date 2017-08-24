@@ -12,6 +12,7 @@
   "author": "ziphwy",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^8.0.23",
     "babel-core": "^6.25.0",
     "babel-eslint": "^7.2.3",
     "babel-loader": "^7.1.1",
